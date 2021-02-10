@@ -36,10 +36,11 @@ We need to talk openly about our code and behavioural expectations. We welcome h
 
 There is *no* problem if someone slips up or occasionally makes a mistake -- this happens to everyone and we’re all trying to learn and develop. If you’re worried about slipping up, endeavour to be understanding and caring. If you’re worried that you have slipped up, be open and apologetic and try to improve based upon the experience.
 
-Yet there is ongoing behaviour that makes other people feel wary and unwelcome. Unfortunately, occasionally there are individuals whose negative patterns of behaviour are persistent and for whatever reason will not change under regular circumstances. If there is a pattern of ongoing/persistent disrespect the organisers will find it necessary to step in and have a conversation with the individual involved. If the poor behaviour extends beyond such a conversation there will be further consequences following guidance provided here: https://www.python.org/psf/conduct/enforcement/
+Yet if an individual displays ongoing, persistent inappropriate behaviour that makes other people feel wary and unwelcome, and (for whatever reason) will not change under regular circumstances, the organisers will consider it necessary to step in and have a conversation with the individual involved. If the inappropriate behaviour extends beyond such a conversation there will be further consequences following guidance provided here: https://www.python.org/psf/conduct/enforcement/
 
 
-To alleviate vagueness, we have outlineds some lists of specific conduct that is inappropriate and unwelcome: https://github.com/canberra-python/README/conduct/list.md
+To alleviate vagueness, we have outlineds some lists of specific conduct that is inappropriate and unwelcome:
+https://github.com/canberra-python/README/blob/main/conduct/list.md
 
 ---
 
