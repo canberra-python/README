@@ -28,7 +28,7 @@ All presentation material should be suitable for people aged 12 and above.
 
 If the subject matter of the presentation cannot be presented adequately without including language that could be considered offensive, this should be pointed out in advance, at the beginning of the talk and in the schedule.
 
-If presenters are unsure whether their material is suitable, they are encouraged to show it to the conference’s speaker liaison or mailing list/forum moderators before their session.
+If presenters are unsure whether their material is suitable, they are encouraged to run it past the organisers in advance.
 
 ## Participating
 
