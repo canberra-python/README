@@ -1,6 +1,8 @@
 # Canberra Python User Group
 
-This group is a regular gathering of Python users and developers in the Canberra area. We discuss Python and related open source technologies. It is a networking forum for meeting other locals interested in Python and exchanging news and ideas.
+This group is a regular gathering of Python users and developers in the Canberra area. We discuss Python and related open source technologies. 
+
+It is a networking forum for meeting other locals interested in Python and exchanging news and ideas.
 
 ---
 
@@ -10,4 +12,4 @@ This group is a regular gathering of Python users and developers in the Canberra
 
 ---
 
-If you do any kind of Python development, or have done, join the group! We'll keep you posted about our regular meetups. PyLadies (or potential pyladies) are particularly welcome to come and connect to the community.
+If you do any kind of Python development, or have done, or are interested to, join the group! We'll keep you posted about our regular meetups. PyLadies (or potential pyladies) are particularly welcome to come and connect to the community.
