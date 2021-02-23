@@ -1,6 +1,6 @@
-This is **not** our code of code. Our code of conduct is here: https://github.com/canberra-python/README/conduct/README.md
+This is **not** our code of conduct, that document is here: https://github.com/canberra-python/README/conduct/README.md
 
-In following is a description of explicitly inappropriate conduct.
+This is a list of inappropriate conduct.
 
 ## Inappropriate Presentation Materials
 
