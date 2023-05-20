@@ -13,3 +13,7 @@ It is a networking forum for meeting other locals interested in Python and excha
 ---
 
 If you do any kind of Python development, or have done, or are interested to, join the group! We'll keep you posted about our regular meetups. PyLadies (or potential pyladies) are particularly welcome to come and connect to the community.
+
+---
+
+If you haven't already, you should consider joing the PSF (Python Software Foundation): https://www.python.org/psf/membership/
