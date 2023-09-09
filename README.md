@@ -17,3 +17,10 @@ If you do any kind of Python development, or have done, or are interested to, jo
 ---
 
 If you haven't already, you should consider joing the PSF (Python Software Foundation): https://www.python.org/psf/membership/
+
+Current organisers:
+
+* https://github.com/jonahsullivan
+* https://github.com/elena
+* https://github.com/agware
+* https://github.com/andrewdhicks 
