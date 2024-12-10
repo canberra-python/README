@@ -23,4 +23,6 @@ Current organisers:
 * https://github.com/jonahsullivan
 * https://github.com/elena
 * https://github.com/agware
-* https://github.com/andrewdhicks 
+* https://github.com/andrewdhicks
+* https://github.com/calebball
+* https://github.com/ekohilas 
