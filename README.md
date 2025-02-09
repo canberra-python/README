@@ -16,6 +16,10 @@ If you do any kind of Python development, or have done, or are interested to, jo
 
 ---
 
+Got an idea for a talk? We love hearing about potential talks whether they be just a concept or fully polished and ready to go. Submit your thoughts and ideas here [https://forms.gle/Q5jytiu1ds7byAQx7](https://forms.gle/Q5jytiu1ds7byAQx7). You can also suggest other people (or ideas!) that you'd like learn more from or about.
+
+---
+
 If you haven't already, you should consider joing the PSF (Python Software Foundation): https://www.python.org/psf/membership/
 
 Current organisers:
